@@ -1,0 +1,3 @@
+[submodule "F160C-minfs"]
+	path = F160C-minfs
+	url = git@github.com:usr-sse2/F160C-minfs.git
